@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Cíntia Rodrigues 😁
+## Bem-vindo(a) ao perfil de Cíntia Rodrigues 🚀
 
  <div>
    <a href="https://github.com/cinrodrigues7">
@@ -11,7 +11,14 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ <br>
  
+### Apaixonada por Programação e em Busca de Desafios 💻
+
+Olá! Sou Cíntia Rodrigues, uma entusiasta de programação em busca de oportunidades emocionantes no mundo da tecnologia. Tenho um interesse crescente em linguagens como JavaScript, HTML e CSS, e estou ansiosa para continuar aprendendo e crescendo nesse campo.
+
+Estou determinada a contribuir e aprender com equipes talentosas, enfrentando desafios que me permitam expandir meu conhecimento e habilidades em programação.
+
 <br>
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
